@@ -7,7 +7,7 @@
 ---
 > ⚠ **PLEASE NOTE**:    
 >  
-> Participants of SAP events (e.g. **ABAP Developer Day**) will receive logon information - i.e. system information and user credentials - to a dedicated SAP BTP ABAP Environment system or SAP S/4HANA system from the SAP team by email prior to the event or during the respective event.
+> Your instructor shared the logon information with you in advance.
 > You will find the solution for this workshop in the development package **`ZRAP100_SOL`**. 
 > >
 > Please contact us during the event if you have not received the logon information. 
