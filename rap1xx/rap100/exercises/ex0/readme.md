@@ -10,22 +10,11 @@
 > Your instructor shared the logon information with you in advance.
 > You will find the solution for this workshop in the development package **`ZRAP100_SOL`**. 
 > >
-> Please contact us during the event if you have not received the logon information. 
+> Please contact your instructor during the event if you have not received the logon information. 
 ---
 
-<!--
----
-> **WICHTIGE INFORMATION**: 
-> 
-> Auf dem **ABAP Developer Day 2023** (z.B. am 30.03.2023) werden Sie auf einem eigens für die Veranstaltung eingerichteten SAP S/4HANA System, **S4H**, die praktischen Übungen durchführen. In diesem System finden Sie die Lösung der verschiedenen Übungen in den Entwicklungspaketen **`ZRAP100_SOL`** bzw. **`ZRAP610_SOL`**   
-> 
-> Eine E-Mail mit den erforderlichen Benutzerdaten wurde Ihnen vom SAP-Team vor der Veranstaltung zugesandt.  
->
-> Bitte kontaktieren Sie uns während der Veranstaltung, falls Sie keine E-Mail erhalten haben. 
----
--->
 
-You've already received user credentials from the SAP Team  **or** created an account on the SAP BTP ABAP environment Trial.
+You've already received user credentials.
 
 You've eventually also created an **ABAP Cloud Project** or an **ABAP Project** in the ABAP Development Tools in Eclipse (ADT) depending on the used ABAP system. If not, then you will find an appropriate step-by-step description in the section _**Create an ABAP Cloud Project in ADT**_ or _**Create an ABAP Project in ADT**_ below.
 
@@ -76,13 +65,9 @@ Please check the following two short documents how to do this if you have not al
 > In this exercise you will define a group ID that you will need in the course of this workshop to uniquely identify your repository artefacts 
 > and separate them from those of other users conducting the same workshop on this system.
 
-<!--
-> ⚠ **Please note** ⚠  
-> For SAP TechEd session AD162, you will be assigned a group ID by the SAP team. Therefore, skip this section and go directly ahead with the next one.
--->
 
 > ⚠ **Please note** ⚠  
-> In case you've been assigned a group ID by the SAP team, then please skip this section and go directly ahead with the next one (either _**Create an ABAP Cloud Project in ADT**_ or _**Create an ABAP Project in ADT**_).
+> In case you've been assigned a group ID by your instructor, then please skip this section and go directly ahead with the next one (either _**Create an ABAP Cloud Project in ADT**_ or _**Create an ABAP Project in ADT**_).
 > 
 > Use the group ID assigned to you by the SAP team in the different exercises of this workshop.
 
@@ -155,7 +140,7 @@ Once you've found an available group ID, choose **Cancel**.
 
 2. Now create the **ABAP Project** as shown on the screenshots provided below. 
   
-  Enter the system information (SID, System IP, and Instance number) provided to you by the SAP event team.
+  Enter the system information (SID, System IP, and Instance number) provided to you by your instructor.
 
    ![Create ABAP Project](images/adt_create_abapproject.png)
 
