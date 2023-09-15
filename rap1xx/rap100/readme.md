@@ -19,7 +19,7 @@ This repository contains the material for the hands-on session **RAP100 - Buildi
 ## Requirements for attending this workshop 
 [^Top of page](#)
 
-> You need the latest version of ABAP Development Tools in Eclipse (ADT) on your laptop or PC as well as the access to an ABAP Environment system to carry out the practical exercises of this workshop.
+> You need the latest version of ABAP Development Tools in Eclipse (ADT) on your laptop or PC as well as the access to an ABAP system (ABAP Environment on BTP or S/4 System, with SAP_BASIS >= 757) to carry out the practical exercises of this workshop.
 
 <details>
   <summary>Click to expand!</summary>
@@ -35,8 +35,7 @@ Please check the following tutorial if you do not have a working account yet:
  - [Create an SAP BTP ABAP Environment Trial User](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html)
 
 > ⚠**Please note**⚠:    
-> Participants of SAP events (e.g. **ABAP Developer Day**) will carry out the various exercises on a dedicated SAP BTP ABAP Environment system set up by SAP for the specific event.    
-
+> Please use the access provided to you by your instructor. Skip the steps mentioned in the following section concerned with user creation.
 <!--
 The requirements to follow the exercises in this repository are:
 1. [Install the latest Eclipse platform and the latest ABAP Development Tools (ADT) plugin](https://developers.sap.com/tutorials/abap-install-adt.html)
