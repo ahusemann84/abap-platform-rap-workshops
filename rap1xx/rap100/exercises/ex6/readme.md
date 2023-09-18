@@ -617,15 +617,17 @@ As *optional* exercises, you can additionally implement the two non-factory, ins
 
 5. Preview and test the enhanced Fiori elements app.
 
+   > ℹ **Info**:
+   > In the S/4 HANA on-premise System the Factory Actions do not work in the oData v4 Preview. If you like you can create an oData v2 Servie Binding (Binding Type OData V2 - UI) based in Service Definition **`ZRAP100_UI_TRAVEL_###`**. Below you see how it should work with oData v4.
+
    Select a travel instance and choose **Copy**  
 
    ![Travel App Preview](images/copy.png)  
 
-   <!--  (PS: Popup no longer available as of Steampunk 2211.)
    Confirm the copy action.   
 
    ![Travel App Preview](images/copy2.png)   
-   -->
+   
    
    An object page with the new travel instance opens.   
 
