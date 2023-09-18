@@ -344,9 +344,9 @@ First you will create an ABAP package, a database table, and an ABAP class to fi
 
 > Publish the local service endpoint of your service binding ![service binding](images/adt_srvb.png) and start the _Fiori elements App Preview_.  
 >
-<!--
+
 > ℹ Carry out exercise 1.5.1 **or** 1.5.2, depending on the ABAP system you're working on.
--->
+
 
 ### Exercise 1.5.1: Publish and Preview the Travel App on SAP BTP, ABAP environment or SAP S/4HANA, Public Cloud Edition
 
@@ -367,9 +367,9 @@ First you will create an ABAP package, a database table, and an ABAP class to fi
    
        ![class](images/p9.png)
 
-</details>
+</details> 
 
-<!--
+
 ### Exercise 1.5.2: Publish and Preview the Travel App on SAP S/4HANA, On-Prem or Private Cloud Edition
 
 > Publishing the local service endpoint of your service binding does not work from within the Service Binding. 
@@ -420,7 +420,7 @@ First you will create an ABAP package, a database table, and an ABAP class to fi
    10. Check that your service bindings is now publish and choose the entity **Travel** and press the button **Preview**   
  
 </details>
--->
+
 
 ## Summary 
 [^Top of page](#)
