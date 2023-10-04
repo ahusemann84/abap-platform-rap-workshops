@@ -8,7 +8,7 @@
 > ⚠ **PLEASE NOTE**:    
 >  
 > Your instructor shared the logon information with you in advance.
-> You will find the solution for this workshop in the development package **`ZRAP100_SOL`**. 
+> You will find the solution for this workshop in the development package **`ZRAP100_AHU`**. 
 > >
 > Please contact your instructor during the event if you have not received the logon information. 
 ---
