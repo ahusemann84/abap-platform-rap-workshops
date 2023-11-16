@@ -13,7 +13,7 @@ The enablement of OData streams will give end-users the option to upload and dow
 - [2.2 - Enable the Handling of Large Objects (LOBs, aka OData Streams)](#exercise-22-enable-the-handling-of-large-objects-lobs-aka-odata-streams)
 - [2.3 - Enhance the Projected BO Data Model](#exercise-23-enhance-the-projected-bo-data-model)
 - [2.4 - Adjust the UI semantics in the Metadata Extension](#exercise-24-adjust-the-ui-semantics-in-the-metadata-extension)
-- [2.5 - Preview and Test the Enhanced Fiori elements App](#exercise-25-preview-and-test-the-enhanced-travel-app)
+<!--- [2.5 - Preview and Test the Enhanced Fiori elements App](#exercise-25-preview-and-test-the-enhanced-travel-app) -->
 - [Summary](#summary)
 - [Appendix](#appendix) 
 
@@ -275,7 +275,7 @@ The enablement of OData streams will give end-users the option to upload and dow
    2. Save ![save icon](images/adt_save.png) and activate ![activate icon](images/adt_activate.png) the changes.
    
 </details>
-
+<!--
 ## Exercise 2.5: Preview and Test the enhanced Travel App
 [^Top of page](#)
 
@@ -303,7 +303,7 @@ The enablement of OData streams will give end-users the option to upload and dow
       <img src="images/preview3.png" alt="Preview app - upload images" width="60%">   
 
 </details>
-
+-->
 ## Summary 
 [^Top of page](#)
 
