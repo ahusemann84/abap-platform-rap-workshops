@@ -275,6 +275,7 @@ The enablement of OData streams will give end-users the option to upload and dow
    2. Save ![save icon](images/adt_save.png) and activate ![activate icon](images/adt_activate.png) the changes.
    
 </details>
+
 <!--
 ## Exercise 2.5: Preview and Test the enhanced Travel App
 [^Top of page](#)
@@ -302,8 +303,8 @@ The enablement of OData streams will give end-users the option to upload and dow
       <!-- ![Preview app - upload images](images/preview3.png)    -->
       <img src="images/preview3.png" alt="Preview app - upload images" width="60%">   
 
-</details>
--->
+</details> -->
+
 ## Summary 
 [^Top of page](#)
 
@@ -316,7 +317,7 @@ Now that you've...
 
 you can continue with the next exercise – **[Exercise 3: Enhance the BO Behavior – Early Numbering](../ex3/readme.md)**
 
----
+--
 
 ## Appendix
 [^Top of page](#)
