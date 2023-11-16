@@ -276,35 +276,6 @@ The enablement of OData streams will give end-users the option to upload and dow
    
 </details>
 
-<!--
-## Exercise 2.5: Preview and Test the enhanced Travel App
-[^Top of page](#)
-
-> Test the enhanced SAP Fiori elements application.
-
- <details>
-  <summary>🔵 Click to expand!</summary>
-
- 1. Open your service binding ![servicebinding](images/adt_srvb.png) **`ZRAP100_UI_TRAVEL_O4_###`** and double-click the _**Travel**_ entity set to open the SAP Fiori elements preview.
- 
- 2. Click **Go** on the app and check the result.
-    
- 3. Play around in the app, e.g. filter the entries and test the defined value helps by creating a new entry or editing an existing one.
-
-    a. You will notice that on the list report page there are nice descriptions and options to filter the result. 
-      <!-- ![Preview app - list page](images/preview.png)  -->
-      <img src="images/preview.png" alt="Preview" width="70%">
- 
-    b. When you create a new entry or change an existing one you see that the value helps for the fields **Agency ID** and **Customer ID** offer an out of the box **frontend validation**. 
-    <!-- ![Preview app - object page](images/preview2.png)   -->
-      <img src="images/preview2.png" alt="Preview app - object page" width="70%">
- 
-    c. In addition your application allows you to upload pictures of type **jpg** and **png**.  
-      <!-- ![Preview app - upload images](images/preview3.png)    -->
-      <img src="images/preview3.png" alt="Preview app - upload images" width="60%">   
-
-</details> -->
-
 ## Summary 
 [^Top of page](#)
 
